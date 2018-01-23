@@ -1,0 +1,1 @@
+explorer %userprofile%\desktop\publishfolder
