@@ -1,1 +1,1 @@
-code "C:\Software\cmd
+code "C:\Software\custom-cmd-commands
