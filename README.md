@@ -2,7 +2,7 @@
 `Windows only`
 
 
-![Preview](https://raw.githubusercontent.com/mt-webdev/custom-cmd-commands/ccc.png)
+![Preview](https://raw.githubusercontent.com/mt-webdev/custom-cmd-commands/ccc.PNG)
 
 
 # Create for yourself
