@@ -25,8 +25,13 @@
 3. Keep following the **Create for yourself** instructions from step **#3.1**
 
 ## Bonus
-As you can see in the files `deploy-a1.bat` and 'deploy-a2.bat' I am executing some **.ps1 (PowerShell)** scripts.
+As you can see in the files `deploy-a1.bat` and `deploy-a2.bat` I am executing some **.ps1 (PowerShell)** scripts.
 I use those for some more complex scenarios and it works just fine!
+
+To print your existing custom commands onto the screen like in the screenshot at the top have a look into `custom-cmd.bat`.
+Also i created a code-cmd command which launches my editor of choice (**VS Code**) to easily modify my commands.
+
+Using something like the mentioned `> gc` command requires you to specify a parameter which is passed into the **.bat-file**. For further readings check out these super old [MSF Docs](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true) or just search for it.
 
 ## Contribute
 I really appreciate your support and interest in making every one of us more productive and efficient in using the console.
