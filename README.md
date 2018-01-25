@@ -9,13 +9,16 @@
 
 1. Navigate to **any path** on your computer, for instance, your user's folder `C:\users\USERNAME\`
 
-1.1 or just enter `%userprofile%`
+    1.1 or just enter `%userprofile%`
 2. At your **specified path**, create a **folder** like `my-custom-cmd`. In there you start creating you **.bat-files**
 3. Now you need to register the **created folder** to your **environment variables** on windows
-3.1 I would suggest adding it to the already existing **PATH** variable
-3.2 If you don't know how just add your windows version to this [google search](https://www.google.de/search?q=how+to+edit+environment+variables+windows)  ;) 
+    
+    3.1 I would suggest adding it to the already existing **PATH** variable
+   
+    3.2 If you don't know how just add your windows version to this [google search](https://www.google.de/search?q=how+to+edit+environment+variables+windows)  ;) 
 4. **/Woohoo/** now just re-/open your console of choice and be happy about your custom commands!
-4.1 How? Just type in the names of the created **.bat-files** like `> gc` if you have a **gc.bat** file
+    
+    4.1 How? Just type in the names of the created **.bat-files** like `> gc` if you have a **gc.bat** file
 ++PS: I would suggest also making this a git-repo for yourself, as git repos are awesome for common reasons++
 
 
