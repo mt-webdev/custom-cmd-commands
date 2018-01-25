@@ -8,6 +8,7 @@
 # Create for yourself
 
 1. Navigate to **any path** on your computer, for instance, your user's folder `C:\users\USERNAME\`
+
 1.1 or just enter `%userprofile%`
 2. At your **specified path**, create a **folder** like `my-custom-cmd`. In there you start creating you **.bat-files**
 3. Now you need to register the **created folder** to your **environment variables** on windows
