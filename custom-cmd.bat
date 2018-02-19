@@ -6,6 +6,11 @@ for /F "tokens=1,2 delims=#" %%a in ('"prompt #$H#$E# & echo on & for %%b in (1)
 echo Custom cmd commands:
 echo.
 
+call :ColorText 0a "push-tag"
+echo :
+echo. - git push origin %1
+echo.
+
 call :ColorText 0a "force-origin"
 echo :
 echo. - git fetch --all && git reset --hard origin/%1
