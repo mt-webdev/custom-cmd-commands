@@ -6,6 +6,11 @@ for /F "tokens=1,2 delims=#" %%a in ('"prompt #$H#$E# & echo on & for %%b in (1)
 echo Custom cmd commands:
 echo.
 
+call :ColorText 0a "mtwd-cv"
+echo :
+echo. - cd C:\Source\github\github-cv-mtwd\
+echo.
+
 call :ColorText 0a "push-tag"
 echo :
 echo. - git push origin %1
